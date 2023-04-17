@@ -1,6 +1,5 @@
-$\usepackage{color}$
-$\definecolor{diamond}{rgb}{0,180,252}$
-$\definecolor{ruby}{rgb}{255,0,98}$
+$\definecolor{diamond}{rgb}{0,0.7059,0.9882}$
+$\definecolor{ruby}{rgb}{1.0,0,0.3843}$
 # public-documents
 * 지금까지 공부해 온 내용들, 진행했던 프로젝트들을 공개하는 공간입니다.
 
