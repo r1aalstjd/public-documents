@@ -1,6 +1,6 @@
-\usepackage{color}
-\definecolor{diamond}{rgb}{0,180,252}
-\definecolor{ruby}{rgb}{255,0,98}
+$\usepackage{color}$
+$\definecolor{diamond}{rgb}{0,180,252}$
+$\definecolor{ruby}{rgb}{255,0,98}$
 # public-documents
 * 지금까지 공부해 온 내용들, 진행했던 프로젝트들을 공개하는 공간입니다.
 
@@ -12,7 +12,7 @@
 |3|유전 알고리즘을 이용한 테트리스 봇 최적화|✔️|
 |4|시각화 언어를 사용한 코로나19 전파 시뮬레이션 설계|✔️|
 |5|Unity Engine과 MLAgent를 이용한 1인칭 게임 강화학습|🛠️|
-|6|고난도 알고리즘 문제 출제 → 백준 기준 $${\color{diamond}Diamond II}$$ ~ $${\color{ruby}Ruby V}$$|✔️|
+|6|고난도 알고리즘 문제 출제 → 백준 기준 $\color{diamond}\texttt{Diamond II}$ ~ $\color{ruby}\texttt{Ruby V}$|✔️|
 |7|Tensorflow를 활용한 콜라주 기법 이미지 구성 GAN 설계 및 학습|🛠️|
 |8|Javascript와 Discord API를 이용한 디스코드 봇 작성|🛠️|
 |9|담금질 기법을 이용한 최적화 문제 해결 및 시각화|❌|
