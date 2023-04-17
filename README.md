@@ -9,7 +9,7 @@
 |3|유전 알고리즘을 이용한 테트리스 봇 최적화|✔️|
 |4|시각화 언어를 사용한 코로나19 전파 시뮬레이션 설계|✔️|
 |5|Unity Engine과 MLAgent를 이용한 1인칭 게임 강화학습|🛠️|
-|6|고난도 알고리즘 문제 출제 → 백준 기준 <span style="color:#00B4FC">Diamond II<span> ~ <span style="color:#FF0062">Ruby V<span>|✔️|
+|6|고난도 알고리즘 문제 출제 → 백준 기준 <span style="color:#00B4FC">Diamond II</span> ~ <span style="color:#FF0062">Ruby V</span>|✔️|
 |7|Tensorflow를 활용한 콜라주 기법 이미지 구성 GAN 설계 및 학습|🛠️|
 |8|Javascript와 Discord API를 이용한 디스코드 봇 작성|🛠️|
 |9|담금질 기법을 이용한 최적화 문제 해결 및 시각화|❌|
