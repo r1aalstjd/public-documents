@@ -1,8 +1,7 @@
 # simulated-annealing-visualization
 $\definecolor{score}{rgb}{0.3569,0.7529,0.8706}$ $\definecolor{langlimit}{rgb}{0.2784,0.3961,0.6275}$ $\definecolor{ruby}{rgb}{1.0,0,0.3843}$
-
 ## [814 - 2](https://www.acmicpc.net/problem/18789)
-> #### <img src="https://d2gd6pc034wcta.cloudfront.net/tier/27.svg" width="20" height="20"> $\color{ruby}\texttt{Ruby IV}$
+> #### <img src="../images/ruby4.svg" width="20" height="20"> $\color{ruby}\texttt{Ruby IV}$
 
 ### 문제
 숫자 0~9 로만 이루어진 8 × 14 크기의 표를 만들어 출력해보자. 다음과 같은 방식으로 만들어진 수를 표에서 "*읽을 수 있다*"라고 한다:
@@ -14,7 +13,7 @@ $\definecolor{score}{rgb}{0.3569,0.7529,0.8706}$ $\definecolor{langlimit}{rgb}{0
 아래와 같은 2 × 3 크기의 표를 예로 들어보자.
 
 
-<center> <img src="https://upload.acmicpc.net/38d17ba7-3ff4-40e7-8a4b-9f7ae09d6652/-/preview/" width="30%" height="30%"> </center>
+<center><img src="https://upload.acmicpc.net/38d17ba7-3ff4-40e7-8a4b-9f7ae09d6652/-/preview/" width="30%" height="30%"></center>
 
 
 원으로 표시된 1에서 시작해서, 아래쪽, 오른쪽, 왼쪽위, 왼쪽으로 이동하면 12314가 만들어지므로, 이 표에서는 12,314를 읽을 수 있다. 만약, 4에서 시작해서 역순으로 이동하면 41,321도 읽을 수 있을 것이다.
