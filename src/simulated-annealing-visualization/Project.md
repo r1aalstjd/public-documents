@@ -13,7 +13,9 @@ $\definecolor{score}{rgb}{0.3569,0.7529,0.8706}$ $\definecolor{langlimit}{rgb}{0
 아래와 같은 2 × 3 크기의 표를 예로 들어보자.
 
 
-<center><img src="https://upload.acmicpc.net/38d17ba7-3ff4-40e7-8a4b-9f7ae09d6652/-/preview/" width="30%" height="30%"></center>
+<p align="center">
+    <img src="https://upload.acmicpc.net/38d17ba7-3ff4-40e7-8a4b-9f7ae09d6652/-/preview/" width="30%" height="30%">
+</p>
 
 
 원으로 표시된 1에서 시작해서, 아래쪽, 오른쪽, 왼쪽위, 왼쪽으로 이동하면 12314가 만들어지므로, 이 표에서는 12,314를 읽을 수 있다. 만약, 4에서 시작해서 역순으로 이동하면 41,321도 읽을 수 있을 것이다.
@@ -48,8 +50,6 @@ $\definecolor{score}{rgb}{0.3569,0.7529,0.8706}$ $\definecolor{langlimit}{rgb}{0
 * 8140점 이상을 획득해야 <span style="color:green">**맞았습니다!!**</span>를 받는다.
 * 예제는 채점하지 않는다.
 * 제출한 후 다른 소스를 제출하려면 10×($\lfloor$(오늘 제출)/50$\rfloor$+1)초가 지나야 한다.
-
-
 
 ## 접근
 가능한 표의 가짓수는 $10^{8 × 14}$ 가지이므로, 컴퓨터가 1초에 1억 번의 연산을 할 수 있다고 가정했을 때
