@@ -1,5 +1,5 @@
 # simulated-annealing-visualization
-$\definecolor{score}{rgb}{0.3569,0.7529,0.8706}$ $\definecolor{langlimit}{rgb}{0.2784,0.3961,0.6275}$ $\definecolor{ruby}{rgb}{1.0,0,0.3843}$
+$\definecolor{ruby}{rgb}{1.0,0,0.3843}$
 ## [814 - 2](https://www.acmicpc.net/problem/18789)
 > #### <img src="../images/ruby4.svg" width="20" height="20"> $\color{ruby}\texttt{Ruby IV}$
 
