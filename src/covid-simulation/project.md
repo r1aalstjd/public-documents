@@ -1,14 +1,5 @@
 # 코드 설계와 시뮬레이션을 통한 코로나바이러스의 전파와 백신, 집단면역 사이의 관련성에 대한 탐구
 
-<style>
-.centerAlign
-{
-    display: block;
-    width: 900px;
-    margin: 0px auto;
-}
-</style>
-
 > 작성 일자: 2021.06.17
 
 > ⚠️ 이 문서를 읽기 전에 ⚠️
@@ -69,7 +60,7 @@
 
 마스크 미착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.16, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<div class=centerAlign>
+<div style="display: block; width: 900px; margin: auto">
     <div style="float:left; margin: 20px 0px 20px 20px" >
         <img src="./images/2.jpg" width="400" height="250"/>
         <div align='center'> [그림 2] 시뮬레이션 진행 33일 후 </div>
@@ -87,7 +78,7 @@
 
 마스크 착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.03, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<div class=centerAlign>
+<div style="display: block; width: 900px; margin: auto">
     <div style="float:left; margin: 20px 0px 20px 20px" >
         <img src="./images/3.jpg" width="400" height="250"/>
         <div align='center'> [그림 4] 시뮬레이션 진행 35일 후 </div>
@@ -105,7 +96,7 @@
 
 마스크 착용, 백신 접종률 30% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.3으로 설정 후 시뮬레이션 진행
 
-<div class=centerAlign>
+<div style="display: block; width: 900px; margin: auto">
     <div style="float:left; margin: 20px 0px 20px 20px" >
         <img src="./images/4.jpg" width="400" height="250"/>
         <div align='center'> [그림 6] 시뮬레이션 진행 70일 후 </div>
@@ -123,7 +114,7 @@
 
 마스크 착용, 백신 접종률 85% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.85로 설정 후 시뮬레이션 진행
 
-<div class=centerAlign>
+<div style="display: block; width: 900px; margin: auto">
     <div style="float:left; margin: 20px 0px 20px 20px" >
         <img src="./images/5.jpg" width="400" height="250"/>
         <div align='center'> [그림 8] 시뮬레이션 진행 25일 후 </div>
