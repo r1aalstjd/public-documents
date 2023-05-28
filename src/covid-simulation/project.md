@@ -60,11 +60,11 @@
 
 마스크 미착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.16, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: 40px auto; margin-right: 40px auto; text-align: center;">
     <img src="./images/2.jpg" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 2] 시뮬레이션 진행 33일 후 </figcaption>
 </figure>
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: 40px auto; margin-right: 40px auto; text-align: center;">
     <img src="./images/graph1.png" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 3] 색깔별 사람 수 변화 </figcaption>
 </figure>
@@ -75,11 +75,11 @@
 
 마스크 착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.03, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/3.jpg" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 4] 시뮬레이션 진행 35일 후 </figcaption>
 </figure>
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/graph2.png" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 5] 색깔별 사람 수 변화 </figcaption>
 </figure>
@@ -90,11 +90,11 @@
 
 마스크 착용, 백신 접종률 30% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.3으로 설정 후 시뮬레이션 진행
 
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/4.jpg" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 6] 시뮬레이션 진행 70일 후 </figcaption>
 </figure>
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/graph3.png" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 7] 색깔별 사람 수 변화 </figcaption>
 </figure>
@@ -105,11 +105,11 @@
 
 마스크 착용, 백신 접종률 85% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.85로 설정 후 시뮬레이션 진행
 
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/5.jpg" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 8] 시뮬레이션 진행 25일 후 </figcaption>
 </figure>
-<figure style="display: inline-block; margin-left: 10px auto; margin-right: 10px auto;">
+<figure style="display: inline-block; margin-left: auto; margin-right: auto;">
     <img src="./images/graph4.png" width="400px" height="250px"/>
     <figcaption style="text-align: center;"> [그림 9] 색깔별 사람 수 변화 </figcaption>
 </figure>
