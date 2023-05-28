@@ -60,16 +60,16 @@
 
 마스크 미착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.16, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<p style="display: block; width: 900px; margin: auto">
+<div style="display: block; width: 900px; margin: auto">
     <figure style="display: inline-block;" >
-        <img src="./images/2.jpg" width="400px" height="250px"/>
+        <img  src="./images/2.jpg" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 2] 시뮬레이션 진행 33일 후 </figcaption>
     </figure>
     <figure style="display: inline-block;">
         <img src="./images/graph1.png" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 3] 색깔별 사람 수 변화 </figcaption>
     </figure>
-</p>
+</div>
 
 결과 : 50일 후 시뮬레이션 내 모든 사람이 완치자가 됨. 120명 시작 후 2명 사망.
 
@@ -77,7 +77,7 @@
 
 마스크 착용, 백신 접종률 0% 가정 → 감염 전파 확률 0.03, 백신 접종률 0으로 설정 후 시뮬레이션 진행
 
-<p style="display: block; width: 900px; margin: auto">
+<div style="display: block; width: 900px; margin: auto">
     <figure style="display: inline-block;" >
         <img src="./images/3.jpg" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 4] 시뮬레이션 진행 35일 후 </figcaption>
@@ -86,7 +86,7 @@
         <img src="./images/graph2.png" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 5] 색깔별 사람 수 변화 </figcaption>
     </figure>
-</p>
+</div>
 
 결과 : 79일 후 시뮬레이션 내 모든 사람이 완치자가 됨. 120명 시작 후 2명 사망.
 
@@ -94,7 +94,7 @@
 
 마스크 착용, 백신 접종률 30% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.3으로 설정 후 시뮬레이션 진행
 
-<p style="display: block; width: 900px; margin: auto">
+<div style="display: block; width: 900px; margin: auto">
     <figure style="display: inline-block;" >
         <img src="./images/4.jpg" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 6] 시뮬레이션 진행 70일 후 </figcaption>
@@ -103,7 +103,7 @@
         <img src="./images/graph3.png" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 7] 색깔별 사람 수 변화 </figcaption>
     </figure>
-</p>
+</div>
 
 결과 : 103일 후 시뮬레이션 내 모든 사람이 완치자가 됨. 120명 시작 후 3명 사망.
 
@@ -111,7 +111,7 @@
 
 마스크 착용, 백신 접종률 85% 가정 → 감염 전파 확률 0.03, 백신 접종률 0.85로 설정 후 시뮬레이션 진행
 
-<p style="display: block; width: 900px; margin: auto">
+<div style="display: block; width: 900px; margin: auto">
     <figure style="display: inline-block;" >
         <img src="./images/5.jpg" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 8] 시뮬레이션 진행 25일 후 </figcaption>
@@ -120,7 +120,7 @@
         <img src="./images/graph4.png" width="400px" height="250px"/>
         <figcaption style="text-align: center;"> [그림 9] 색깔별 사람 수 변화 </figcaption>
     </figure>
-</p>
+</div>
 
 결과 : 60일 후 시뮬레이션 내 모든 사람이 완치자가 됨. 120명 시작 후 **0명 사망.**
 
