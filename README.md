@@ -11,7 +11,7 @@ $\definecolor{diamond}{rgb}{0,0.7059,0.9882}$ $\definecolor{ruby}{rgb}{1.0,0,0.3
 |5|편미분 방정식으로부터 Discrete Laplace operator 유도 및 시뮬레이션 설계|✔️|❌|
 |6|Unity Engine과 MLAgent를 이용한 1인칭 게임 강화학습|🛠️|🛠️|
 |7|[고난도 알고리즘 문제 출제](https://github.com/r1aalstjd/algorithm-problems) → [Solved.ac](https://solved.ac/) 기준 $\color{diamond}\texttt{Diamond II}$ ~ $\color{ruby}\texttt{Ruby V}$|✔️|✔️|
-|8|Tensorflow를 활용한 콜라주 기법 이미지 구성 GAN 설계 및 학습|🛠️|🛠️|
+|8|Tensorflow를 활용한 콜라주 기법 이미지 구성 신경망 설계 및 학습|🛠️|🛠️|
 |9|Javascript와 Discord API를 이용한 디스코드 봇 작성|🛠️|❌|
 |10|[Baekjoon Online Judge에서 해결한 알고리즘 문제 정리](https://github.com/r1aalstjd/boj)|♻️|♻️|
 |11|담금질 기법을 이용한 최적화 문제 해결 및 시각화|🛠️|🛠️|
