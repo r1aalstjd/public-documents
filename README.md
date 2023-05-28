@@ -7,7 +7,7 @@ $\definecolor{diamond}{rgb}{0,0.7059,0.9882}$ $\definecolor{ruby}{rgb}{1.0,0,0.3
 |1|Python과 SIR 모델을 이용한 코로나19 시뮬레이션|✔️|❌|
 |2|영상 처리 인공지능을 이용한 멸종 위기종 개체수 추적 및 분석|✔️|❌|
 |3|유전 알고리즘을 이용한 테트리스 인공지능 최적화|✔️|🛠️|
-|4|시각화 언어를 사용한 코로나19 전파 시뮬레이션 설계|✔️|❌|
+|4|[시각화 언어를 사용한 코로나19 전파 시뮬레이션 설계](src/covid-simulation/project.md)|✔️|❌|
 |5|편미분 방정식으로부터 Discrete Laplace operator 유도 및 시뮬레이션 설계|✔️|❌|
 |6|Unity Engine과 MLAgent를 이용한 1인칭 게임 강화학습|🛠️|🛠️|
 |7|[고난도 알고리즘 문제 출제](https://github.com/r1aalstjd/algorithm-problems) → [Solved.ac](https://solved.ac/) 기준 $\color{diamond}\texttt{Diamond II}$ ~ $\color{ruby}\texttt{Ruby V}$|✔️|✔️|
