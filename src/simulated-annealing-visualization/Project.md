@@ -1,7 +1,7 @@
 # simulated-annealing-visualization
-$\definecolor{ruby}{rgb}{1.0,0,0.3843}$
+
 ## [814 - 2](https://www.acmicpc.net/problem/18789)
-> #### <img src="../images/ruby4.svg" width="20" height="20"> $\color{ruby}\texttt{Ruby IV}$
+> #### <img src="../images/ruby4.svg" width="20" height="20"> $\color{rgb}{1.0,0,0.3843}\texttt{Ruby IV}$
 
 ### 문제
 숫자 0~9 로만 이루어진 8 × 14 크기의 표를 만들어 출력해보자. 다음과 같은 방식으로 만들어진 수를 표에서 "*읽을 수 있다*"라고 한다:

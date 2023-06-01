@@ -1,6 +1,6 @@
 # public-documents
 * 지금까지 공부해 온 내용들, 진행했던 프로젝트들을 공개하는 공간입니다.
-$\definecolor{diamond}{rgb}{0,0.7059,0.9882}$ $\definecolor{ruby}{rgb}{1.0,0,0.3843}$
+
 ## Projects-list
 |순서|프로젝트 내용|완료 여부|문서화|
 |:---:|---|:---:|:---:|
@@ -10,7 +10,7 @@ $\definecolor{diamond}{rgb}{0,0.7059,0.9882}$ $\definecolor{ruby}{rgb}{1.0,0,0.3
 |4|[시각화 언어를 사용한 코로나19 전파 시뮬레이션 설계](src/covid-simulation/project.md)|✔️|✔️|
 |5|편미분 방정식으로부터 Discrete Laplace operator 유도 및 시뮬레이션 설계|✔️|❌|
 |6|Unity Engine과 MLAgent를 이용한 1인칭 게임 강화학습|🛠️|🛠️|
-|7|[고난도 알고리즘 문제 출제](https://github.com/r1aalstjd/algorithm-problems) → [Solved.ac](https://solved.ac/) 기준 $\color{diamond}\texttt{Diamond II}$ ~ $\color{ruby}\texttt{Ruby V}$|✔️|✔️|
+|7|[고난도 알고리즘 문제 출제](https://github.com/r1aalstjd/algorithm-problems) → [Solved.ac](https://solved.ac/) 기준 $\color{rgb}{0,0.7059,0.9882}\texttt{Diamond II}$ ~ $\color{rgb}{1.0,0,0.3843}\texttt{Ruby V}$|✔️|✔️|
 |8|Tensorflow를 활용한 콜라주 기법 이미지 구성 신경망 설계 및 학습|🛠️|🛠️|
 |9|Javascript와 Discord API를 이용한 디스코드 봇 작성|🛠️|❌|
 |10|[Baekjoon Online Judge에서 해결한 알고리즘 문제 정리](https://github.com/r1aalstjd/boj)|♻️|♻️|
