@@ -110,7 +110,6 @@ $$\left ( \frac{\partial U}{\partial t} \right )^{n+1} = \left ( \frac{\partial 
 ```py
 import numpy as np
 from matplotlib import pyplot as plt
-from IPython import display
 import cv2
 from google.colab.patches import cv2_imshow
 ```
