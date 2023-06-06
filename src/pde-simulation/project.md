@@ -27,13 +27,13 @@
 
 $$\nabla^{2}f=0$$
 
-이때 연산자 $\nabla^{2}$는 라플라스 연산자(Laplace operator)로, 3차원 직교 좌표계에서는 다음과 같이 나타낼 수 있다.
+이때 연산자 $\nabla^{2}$는 **라플라스 연산자(Laplace operator)**로, 3차원 직교 좌표계에서는 다음과 같이 나타낼 수 있다.
 
 $$\nabla^{2}=\frac{\partial^{2}}{\partial x^{2}} + \frac{\partial^{2}}{\partial y^{2}} + \frac{\partial^{2}}{\partial z^{2}}$$
 
 즉, 이 방정식은 어떤 함수 $f(x, y, z)$를 각 변수에 대해 2번 미분한 값의 합이 0인 해를 나타낸다.
 
-본 탐구에서 구현할 라플라스 방정식을 활용한 2차원 시뮬레이션에서는 라플라스 방정식을 2차원 좌표계 상에서 근사할 것이다. 2차원 상에서 좌표 에 위치한 점의 값을 라 하면, 주변 9개의 점을 다음과 같이 나타낼 수 있다.
+본 탐구에서 구현할 라플라스 방정식을 활용한 2차원 시뮬레이션에서는 라플라스 방정식을 2차원 좌표계 상에서 근사할 것이다. 2차원 상에서 좌표 $(i, j)$에 위치한 점의 값을 $U_{i, j}$라 하면, 주변 9개의 점을 다음과 같이 나타낼 수 있다.
 
 <p align="center">
     <img src="./images/image01.png" width="50%"/>
@@ -46,7 +46,7 @@ $$\frac{\partial U}{\partial x} \simeq \frac{U_{i, j+1} - U_{i, j}}{\Delta x}$$
 
 이는 점 $(i, j+\frac{1}{2})$에서의 기울기에 해당한다.
 
-또한, 점 에서의 2차 미분계수 역시 마찬가지로 나타낼 수 있다.
+또한, 점 $(i, j)$에서의 2차 미분계수 역시 마찬가지로 나타낼 수 있다.
 
 $$\frac{\partial^{2} U}{\partial x^{2}} \simeq \frac{\frac{\partial  U}{\partial  x} \vert_{(i,j+\frac{1} {2})} - \frac{\partial  U}{\partial  x} \vert_{(i,j-\frac{1}{2})}}{\Delta x}$$
 
@@ -62,7 +62,7 @@ $$\begin{align}
 따라서, 좌표 $(i, j)$에 해당하는 값의 라플라스 연산 근삿값은 다음과 같다.
 
 $$\begin{align}
-\nabla^{2}U &= \frac{\partial^{2} U}{\partial x^{2}} \nonumber\\
+\nabla^{2}U &= \frac{\partial^{2} U}{\partial x^{2}} + \frac{\partial^{2} U}{\partial y^{2}}\nonumber\\
 &\simeq \frac{U_{i, j+1} + U_{i, j-1} + U_{i+1, j} + U_{i-1, j} - 4{U_{i, j}}}{(\Delta x)^{2}} \nonumber\\
 \end{align}$$
 
@@ -83,7 +83,7 @@ U_{i+1, j-1} & U_{i+1, j} & U_{i+1, j+1} \\
 \end{matrix}
 \right ] $$
 
-위 식에서 점 $(i, j)$와 주변 점을 나타낸 행렬에 곱해진 행렬을 **이산 라플라스 연산자**라 한다. 다만, 이러한 형태의 연산자는 값이 매끄럽게 변화하는 상황에서는 안정적이지만, 빠르게 변화하는 상황에서는 다음과 같이 대각선에 위치한 값을 추가적으로 고려하는 행렬이 더욱 안정적이다.
+위 식에서 점 $(i, j)$와 주변 점을 나타낸 행렬에 곱해진 행렬을 **이산 라플라스 연산자(Discrete Laplace operator)**라 한다. 다만, 이러한 형태의 연산자는 값이 매끄럽게 변화하는 상황에서는 안정적이지만, 빠르게 변화하는 상황에서는 다음과 같이 대각선에 위치한 값을 추가적으로 고려하는 행렬이 더욱 안정적이다.
 
 $$\left [
 \begin{matrix}
