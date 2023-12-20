@@ -1,4 +1,4 @@
-# Tetris
+# genetic-Tetris
 
 <p align='center'>
     <img src="./images/playing-Tetris.gif" width="250"/>
@@ -364,7 +364,7 @@
     `evaluation` 함수의 반환값은 다음과 같다.
     * `score`: 현재 위치에 블록을 배치했을 때 점수
 
-    `block_drop` 함수를 구현하는 데 사용된 함수는 각각 다음을 수행한다.
+    `evaluation` 함수를 구현하는 데 사용된 함수는 각각 다음을 수행한다.
     * `removeline`: 현재 위치에 블록을 배치했을 때 지워지는 줄의 수와 줄이 지워진 후 게임 판의 상태를 반환
 
         ```py
